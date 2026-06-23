@@ -1,0 +1,5 @@
+node_modules/
+tiktok-images/
+test-output/
+*.pdf
+.env
