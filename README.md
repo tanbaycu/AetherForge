@@ -75,18 +75,7 @@ npm start
 - Nhấn `Enter` để chọn tính năng (Full Pipeline, Chỉ tải ảnh, Tăng nét Enhance, hoặc Xuất PDF).
 - Nhấn `Esc` để thoát ứng dụng an toàn.
 
-## 📸 Hình ảnh Demo
 
-*(Khu vực này dành để bạn chèn các hình ảnh/video demo dự án. Hãy thay thế các đoạn chữ bên trong dấu ngoặc đơn bằng link ảnh thực tế của bạn)*
-
-![Ảnh Demo CLI 1](link-anh-demo-cli-1-vao-day)
-*Giao diện tương tác 3D Chrome CLI siêu mượt*
-
-![Ảnh Demo Output](link-anh-demo-pdf-vao-day)
-*Kết quả xuất PDF không viền chuẩn A4*
-
-![Ảnh Demo So sánh AI](link-anh-demo-ai-enhance-vao-day)
-*So sánh ảnh trước và sau khi được AI Upscale + Sharpen*
 
 ## 🔬 Cơ chế hoạt động
 
