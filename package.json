@@ -29,7 +29,7 @@
   "description": "🌌 AetherForge: Omni-Platform God-Tier CLI tool for high-quality photo extraction, AI enhancement, and flawless PDF export. Optimized for Facebook and TikTok.",
   "dependencies": {
     "@tobyg74/tiktok-api-dl": "^1.3.7",
-    "axios": "^1.16.1",
+    "axios": "^1.18.1",
     "boxen": "^5.1.2",
     "cfonts": "^3.2.0",
     "chalk": "^4.1.2",
